@@ -6,4 +6,3 @@ emby-adr-vD.js = type=http-response,requires-body=1,max-size=0,pattern=^https:\/
 
 [MITM]
 hostname = %APPEND% mb3admin.com
-≈
