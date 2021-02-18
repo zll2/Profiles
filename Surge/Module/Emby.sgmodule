@@ -1,6 +1,5 @@
-#!name=embyUnlocked
-#!desc=embyUnlocked
-#!system=ios
+#!name=Emby Premiere
+#!desc=Emby Premiere Unlock
 
 [Script]
 emby-adr-vD.js = type=http-response,requires-body=1,max-size=0,pattern=^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey),script-path=https://raw.githubusercontent.com/zll2/profiles/master/Surge/Scripts/emby_S.js
