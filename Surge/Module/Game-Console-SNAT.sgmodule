@@ -3,4 +3,4 @@
 #!system=mac
 
 [General]
-always-real-ip = %APPEND% *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com
+always-real-ip = %APPEND% *.srv.ninten≈
